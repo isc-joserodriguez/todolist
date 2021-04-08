@@ -3,11 +3,3 @@
     border:.5px solid gray;
     padding: 10px;
 }
-
-.Tasks div label.completed {
-    color: red;
-}
-
-.Tasks div label.not-completed {
-    color: red;
-}
